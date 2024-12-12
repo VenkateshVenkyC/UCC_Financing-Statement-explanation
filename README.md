@@ -69,8 +69,6 @@ When It Will Be **Recorded**
 Secures interests in movable goods.
 **Example:** A lender finances a fleet of trucks and files a UCC lien on them.
 
-
-
 **2. Fixture Filings:**
 
 Secures interests in items attached to real estate, like HVAC systems or elevators.
