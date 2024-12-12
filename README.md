@@ -77,6 +77,7 @@ Example: A company installs a commercial HVAC system and files a UCC lien to sec
 **3. Inventory Liens:**
 
 Covers a business’s inventory as collateral.
+
 **Example:** A retailer uses its stock of goods to secure a loan, and the lender files a UCC-1.
 
 ---
