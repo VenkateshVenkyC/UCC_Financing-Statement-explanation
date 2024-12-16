@@ -256,7 +256,7 @@ The 30-year criteria is a key aspect of title searches in Florida, particularly 
 
 ---
 
-### 30-Year Criteria in Florida Title Searches
+## 30-Year Criteria in Florida Title Searches
 
 1. Marketable Record Title Act (MRTA):
 
