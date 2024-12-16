@@ -251,3 +251,76 @@ Title insurance policies often exclude UCC liens from coverage unless explicitly
 
 By integrating **UCC findings** into the title examination process, property transactions are protected from hidden **financial risks**, ensuring a smooth and secure transfer of ownership.
 
+The 30-year criteria is a key aspect of title searches in Florida, particularly for identifying and eliminating outdated claims, including liens, encumbrances, or other interests that affect real property. Here’s how it applies to mobile homes and UCC filings:
+
+
+---
+
+### 30-Year Criteria in Florida Title Searches
+
+1. Marketable Record Title Act (MRTA):
+
+Florida’s Marketable Record Title Act (MRTA) provides that any claims, liens, or encumbrances not properly preserved within 30 years from the root of title are extinguished.
+
+This includes claims affecting mobile homes classified as real property if they are permanently affixed to the land.
+
+
+2. Application to Mobile Homes:
+
+If a mobile home is permanently affixed to land and classified as real property, the MRTA 30-year rule applies. Any lien, easement, or restriction older than 30 years that hasn’t been refiled or preserved in public records is no longer enforceable.
+
+**Key Note:** This applies only to real property. Mobile homes still classified as personal property under Florida law are subject to UCC filing rules, not MRTA.
+
+---
+
+### How the 30-Year Rule Affects Title Searches for Mobile Homes
+
+1. Permanently Affixed Mobile Homes (Real Property):
+
+Any encumbrance, including old UCC filings, must have been renewed or reaffirmed within 30 years.
+
+If no renewal or preservation occurs, the encumbrance is eliminated under MRTA.
+
+
+
+2. Mobile Homes as Personal Property:
+
+UCC liens on personal property have a much shorter lifespan (5 years unless renewed). The 30-year rule does not apply directly to UCC filings but can indirectly affect older mobile homes if they have been improperly recorded or if the land they sit on is affected by MRTA.
+
+---
+
+### Exceptions to the 30-Year Rule
+
+Certain claims and liens may survive beyond 30 years, such as:
+
+Tax liens or other government claims.
+
+Recorded restrictions specifically preserved within the 30-year period.
+
+Title issues explicitly mentioned in the chain of title or documents like deeds or easements.
+
+---
+
+**Example**
+
+Scenario: A mobile home built in 1980 was permanently affixed to a parcel of land in 1990, and a UCC lien was filed against it in 1991.
+
+In 2024, a buyer conducts a title search.
+
+**Action:**
+
+If no renewal or preservation was made for the lien after 1991, it is extinguished under MRTA because 30 years have passed without preservation.
+
+If the mobile home is classified as personal property, the UCC lien would have already expired after 5 years unless renewed.
+
+---
+
+### Key Takeaways
+
+The 30-year rule under MRTA applies to mobile homes classified as real property but not to those still classified as personal property.
+
+Title examiners must determine whether a mobile home is real or personal property to apply the correct rules.
+
+MRTA clears old claims and encumbrances from title records if they haven’t been reaffirmed or preserved within 30 years.
+
+This makes the classification and documentation of mobile homes critical during a title search.
